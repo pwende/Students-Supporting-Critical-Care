@@ -8,6 +8,8 @@ some exceptions in English) and (2) the second containing all material in a tran
 
 Please beware that most Resources have not been still uploaded, this will happen in the course of the next days.
 
+
+
 Zürich, 12. March 2020
 
 Pedro D. Wendel Garcia,
