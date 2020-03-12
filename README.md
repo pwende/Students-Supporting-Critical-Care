@@ -12,8 +12,5 @@ Please beware that most Resources have not been still uploaded, this will happen
 
 Zürich, 12. March 2020
 
-Pedro D. Wendel Garcia,
-
-Stephanie Klinzing,
-
-Reto Schüpbach,
+Pedro D. Wendel Garcia, Stephanie Klinzing, Reto Schüpbach
+Institue of Intensive Care Medicine, University Hospital Zürich
