@@ -1,4 +1,4 @@
-# Students-Supporting-Critical-Care in the COVID-19 pandemic
+# Students Supporting Critical Care in the COVID-19 pandemic
 
 
 Here, we, the Institute for Intensive Care Medicine, University Hospital Zürich, provide access to our continuously developing 
